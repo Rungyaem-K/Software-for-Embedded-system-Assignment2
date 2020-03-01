@@ -94,7 +94,7 @@ void pressed_handler() {
     delete request;// also clears out the response
 
 
-   // wifi->disconnect();
+   // wifi->disconnect(); 
    pc.printf("\nDone\n");    
 }
 
